@@ -1,0 +1,12 @@
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\bin\Debug\net6.0\TAFramework.deps.json
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\bin\Debug\net6.0\TAFramework.dll
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\bin\Debug\net6.0\TAFramework.pdb
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\TAFramework.csproj.AssemblyReference.cache
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\TAFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\TAFramework.AssemblyInfoInputs.cache
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\TAFramework.AssemblyInfo.cs
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\TAFramework.csproj.CoreCompileInputs.cache
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\TAFramework.dll
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\refint\TAFramework.dll
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\TAFramework.pdb
+C:\Users\halla\source\repos\TAFramework\TAFramework\TAFramework\obj\Debug\net6.0\ref\TAFramework.dll
