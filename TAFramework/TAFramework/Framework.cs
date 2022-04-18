@@ -177,7 +177,7 @@ namespace TAFramework
                 output = output.Substring(0, 1).ToUpper() + output.Substring(1).ToLower();
                 return output;
             }
-            /* disabled because it doesn't work
+            /* disabled because it doesn't work. remember to fix
             public static void DrawASCII(string image)
             {
                 // draw an ascii image based on the input image
