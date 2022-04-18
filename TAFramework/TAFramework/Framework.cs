@@ -17,7 +17,7 @@ namespace TAFramework
                 }
                 else
                 {
-                    Console.Write(question + " >> ");
+                    Console.Write(question + Datastore.Config.AQPointer);
                     string? answer = Console.ReadLine();
                     if (answer == null) // prevent possible null returns
                     {
